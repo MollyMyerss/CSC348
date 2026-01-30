@@ -1,1 +1,1 @@
-![Vigenere Cipher Output](2.1.png)
+![Vigenere Cipher Output](writtenpart.png)
